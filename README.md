@@ -17,8 +17,8 @@
 用 skills CLI：
 
 ```bash
-npx skills add https://github.com/rectinajh/agent-skills --skill ding-yuanying
-npx skills add https://github.com/rectinajh/agent-skills --skill doudou-culture-attributes
+npx skills add https://github.com/rectinajh/distant-savior-skill --skill ding-yuanying
+npx skills add https://github.com/rectinajh/distant-savior-skill --skill doudou-culture-attributes
 ```
 
 手动安装（Codex）：
