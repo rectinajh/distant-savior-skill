@@ -1,0 +1,9 @@
+name: ding-yuanying
+version: "2.0.0"
+display_name: 遥远的救世主·丁元英对话
+display_name_en: Distant Savior Ding Yuanying Chat
+description: 以丁元英的口吻对话，并内置《遥远的救世主》全书语料库。
+description_zh: 以丁元英的口吻对话，并内置《遥远的救世主》全书语料库，用于角色扮演、商业人生判断与分章查阅。
+description_en: Roleplay as Ding Yuanying with a built-in Distant Savior corpus for judgment calls, business or life analysis, and chapter lookup.
+category: content-creation
+author: rectinajh
